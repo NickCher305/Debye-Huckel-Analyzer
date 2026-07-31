@@ -150,7 +150,7 @@ $$
 
     **Вариант А: Клонирование через Git (рекомендуется)**
     ```bash
-    git clone https://github.com/[NickCher305]/DebyeHuckelAnalyzer.git
+    git clone https://github.com/NickCher305/DebyeHuckelAnalyzer.git
     cd DebyeHuckelAnalyzer
     ```
 
